@@ -40,7 +40,7 @@ End-to-end telecom customer churn analysis using **Python, SQL/MySQL, and Power 
 
 ### Superstore Sales Analysis
 
-Sales and profitability analysis using **Python, SQL/MySQL, Tableau, and data visualization**.
+Sales and profitability analysis using **Python, SQL/MySQL, Power BI, and data visualization**.
 
 * Sales and profit analysis
 * Customer and product analysis
